@@ -1,0 +1,289 @@
+{
+    "bank": [
+        {
+            "id": "040b702b-2de0-491b-bf51-44b6e5156ad1",
+            "description": "A continuación seleccione su banco",
+            "pseCode": "0"
+        },
+        {
+            "id": "cbb69e43-da02-4ee4-9667-22a78af03b93",
+            "description": "BAN.CO",
+            "pseCode": "1552"
+        },
+        {
+            "id": "843bcf8e-3fd3-46cf-ab9d-7400d3c430f0",
+            "description": "BANCAMIA",
+            "pseCode": "1059"
+        },
+        {
+            "id": "6d66a6b5-1b65-445e-a568-213ba0d2eb36",
+            "description": "BANCO AGRARIO",
+            "pseCode": "1040"
+        },
+        {
+            "id": "d8ce01f3-52d0-4a83-a773-6c674b8f1e3f",
+            "description": "BANCO AGRARIO DESARROLLO",
+            "pseCode": "1081"
+        },
+        {
+            "id": "28fe8868-32ad-4870-aada-558fb387dc5b",
+            "description": "BANCO AGRARIO QA DEFECTOS",
+            "pseCode": "1080"
+        },
+        {
+            "id": "61c0c12a-38e2-4818-bf87-8441d0499f5a",
+            "description": "BANCO CAJA SOCIAL",
+            "pseCode": "10322"
+        },
+        {
+            "id": "e1cb4656-4695-42d7-98da-e2f99214344b",
+            "description": "BANCO CAJA SOCIAL DESARROLLO",
+            "pseCode": "1032"
+        },
+        {
+            "id": "1f0be384-f8a8-4b80-944d-73a414be83e4",
+            "description": "BANCO COMERCIAL AVVILLAS S.A.",
+            "pseCode": "1052"
+        },
+        {
+            "id": "a8c7e26a-1ae6-451a-8580-04e4caacd210",
+            "description": "BANCO COOMEVA S.A. - BANCOOMEVA",
+            "pseCode": "1061"
+        },
+        {
+            "id": "e892196a-1162-47ec-af2e-427292601095",
+            "description": "BANCO COOPERATIVO COOPCENTRAL",
+            "pseCode": "1066"
+        },
+        {
+            "id": "9e639b0d-4394-4ea4-b55b-fa9d552a7db7",
+            "description": "BANCO CREDIFINANCIERA",
+            "pseCode": "1058"
+        },
+        {
+            "id": "d2ecc792-c98c-4372-a25c-6529f324b166",
+            "description": "BANCO DAVIVIENDA",
+            "pseCode": "1051"
+        },
+        {
+            "id": "d357566b-a831-4639-bcb1-ca36c813ddf4",
+            "description": "BANCO DAVIVIENDA Desarrollo",
+            "pseCode": "10512"
+        },
+        {
+            "id": "bb79867b-2811-45a2-af4f-9cb84c846cb8",
+            "description": "BANCO DE BOGOTA",
+            "pseCode": "1039"
+        },
+        {
+            "id": "68881b79-342b-4db4-9181-7dde557bb624",
+            "description": "BANCO DE BOGOTA DESARROLLO 2013",
+            "pseCode": "1001"
+        },
+        {
+            "id": "fa769856-0b7a-4c4d-b3b9-e113f716009d",
+            "description": "BANCO DE OCCIDENTE",
+            "pseCode": "1023"
+        },
+        {
+            "id": "7f4a7756-6f23-4863-b3cd-9176eda36108",
+            "description": "BANCO FALABELLA",
+            "pseCode": "1062"
+        },
+        {
+            "id": "8611e439-9bae-4032-8139-32cd0ee8c938",
+            "description": "BANCO GNB COLOMBIA (ANTES HSBC)",
+            "pseCode": "1010"
+        },
+        {
+            "id": "6efd34fc-ae9e-47fc-bbe0-d78f7242adda",
+            "description": "BANCO GNB SUDAMERIS",
+            "pseCode": "1012"
+        },
+        {
+            "id": "5fa785b8-da6d-46eb-9650-9456c3567a7b",
+            "description": "BANCO PICHINCHA S.A.",
+            "pseCode": "1060"
+        },
+        {
+            "id": "c08b138f-3b23-4574-ab83-edf3453ce463",
+            "description": "BANCO POPULAR",
+            "pseCode": "1002"
+        },
+        {
+            "id": "9df1a7f0-ddd3-4579-8fb1-a79795962899",
+            "description": "BANCO PRODUCTOS POR SEPARADO",
+            "pseCode": "1203"
+        },
+        {
+            "id": "89e10944-0514-4948-ac6f-58cdd3324fa3",
+            "description": "Banco PSE",
+            "pseCode": "1101"
+        },
+        {
+            "id": "ced233d4-4264-4778-88b6-34cf2b45dd08",
+            "description": "BANCO SANTANDER COLOMBIA",
+            "pseCode": "1065"
+        },
+        {
+            "id": "87c79df4-4eb9-4d5d-9985-2c90ec4c1346",
+            "description": "BANCO SERFINANZA",
+            "pseCode": "1069"
+        },
+        {
+            "id": "67f5d08f-77bc-4011-af35-651cb5b1255b",
+            "description": "BANCO TEQUENDAMA",
+            "pseCode": "1035"
+        },
+        {
+            "id": "216b68e3-2188-4ad6-99aa-f6adc99cb031",
+            "description": "Banco union Colombia Credito",
+            "pseCode": "1004"
+        },
+        {
+            "id": "9aaabfc8-7da0-473e-804d-84620f56c19b",
+            "description": "BANCO UNION COLOMBIANO",
+            "pseCode": "1022"
+        },
+        {
+            "id": "4d728beb-d4df-44e6-897c-be28696bbc94",
+            "description": "BANCO UNION COLOMBIANO FD2",
+            "pseCode": "1005"
+        },
+        {
+            "id": "548ed2f6-82af-418f-aaaa-28df49fe787a",
+            "description": "Banco Web Service ACH",
+            "pseCode": "1055"
+        },
+        {
+            "id": "d83ec2b9-c7c0-4d56-a0f4-81d8dbcf7d76",
+            "description": "Banco Web Service ACH WSE 3.0",
+            "pseCode": "1055"
+        },
+        {
+            "id": "a558b4f1-791a-47e3-aa66-ffd09bdcc2de",
+            "description": "BANCOLOMBIA DATAPOWER",
+            "pseCode": "10072"
+        },
+        {
+            "id": "752b6ebd-427b-474a-a830-c5eab66a015f",
+            "description": "BANCOLOMBIA DESARROLLO",
+            "pseCode": "10071"
+        },
+        {
+            "id": "1c2554ce-6aff-46a5-8dcb-43fc7b7fe8e7",
+            "description": "BANCOLOMBIA QA",
+            "pseCode": "1007"
+        },
+        {
+            "id": "0088e6c1-00b1-413f-ac19-b72f3867f8ad",
+            "description": "BANKA",
+            "pseCode": "1077"
+        },
+        {
+            "id": "6c1083f7-2b20-4e47-a8f0-48f685625f4f",
+            "description": "BBVA COLOMBIA S.A.",
+            "pseCode": "1013"
+        },
+        {
+            "id": "80bf3f89-94a9-413e-9c88-e47ad28beacd",
+            "description": "BBVA DESARROLLO",
+            "pseCode": "1513"
+        },
+        {
+            "id": "6905ed0f-ce7d-420b-a608-5785ec30fe29",
+            "description": "CITIBANK COLOMBIA S.A.",
+            "pseCode": "1009"
+        },
+        {
+            "id": "8b2ab5d2-c520-4213-8759-232d5b87ff8f",
+            "description": "COLTEFINANCIERA",
+            "pseCode": "1370"
+        },
+        {
+            "id": "37a2dc6d-7840-489f-83a7-467bdf5a1821",
+            "description": "CONFIAR COOPERATIVA FINANCIERA",
+            "pseCode": "1292"
+        },
+        {
+            "id": "ef1ec70d-d189-4fd3-a1dc-b4b903a63484",
+            "description": "COOPERATIVA FINANCIERA COTRAFA",
+            "pseCode": "1289"
+        },
+        {
+            "id": "fc72502d-df8a-42ca-8a9f-1c10cbbef33c",
+            "description": "COOPERATIVA FINANCIERA DE ANTIOQUIA",
+            "pseCode": "1283"
+        },
+        {
+            "id": "5d12ba1c-7dd3-4027-8ab8-bf6ddaad438e",
+            "description": "CREDIFIANCIERA",
+            "pseCode": "1558"
+        },
+        {
+            "id": "86358969-7789-40e7-bb3b-f6c2469e6dae",
+            "description": "DALE",
+            "pseCode": "1097"
+        },
+        {
+            "id": "b2584d22-c13c-4023-b8c1-c0f1491f0ef0",
+            "description": "DAVIPLATA",
+            "pseCode": "1551"
+        },
+        {
+            "id": "fdf3a27e-185b-4d18-969a-6938d5ff51e3",
+            "description": "GIROS Y FINANZAS COMPAÑIA DE FINANCIAMIENTO S.A",
+            "pseCode": "1303"
+        },
+        {
+            "id": "346ccc0c-2e61-4fd5-80ae-21fb817d472c",
+            "description": "IRIS",
+            "pseCode": "1637"
+        },
+        {
+            "id": "141aa0ce-a6db-4726-99e5-fd5b5fd5de84",
+            "description": "ITAU",
+            "pseCode": "1006"
+        },
+        {
+            "id": "28c49327-0576-4bba-b629-2685abd04f8f",
+            "description": "MOVII S.A",
+            "pseCode": "1801"
+        },
+        {
+            "id": "536a6d51-0bba-4a38-829b-458a336224ea",
+            "description": "NEQUI CERTIFICACION",
+            "pseCode": "1508"
+        },
+        {
+            "id": "f285dd83-87ed-42a1-84ce-8547acdea4e9",
+            "description": "prueba restriccion",
+            "pseCode": "9988"
+        },
+        {
+            "id": "0bb0cb5f-b87c-4d6d-a2dd-042e28196c21",
+            "description": "Prueba Steve",
+            "pseCode": "121212"
+        },
+        {
+            "id": "64f1baee-28bc-4c4b-8fde-5cfc5b0fba9d",
+            "description": "RAPPIPAY",
+            "pseCode": "1151"
+        },
+        {
+            "id": "0ad3c2cc-ba21-4ed0-8ccf-7568fb8f137b",
+            "description": "SCOTIABANK COLPATRIA DESARROLLO",
+            "pseCode": "1019"
+        },
+        {
+            "id": "f7018ec4-da55-4b66-bdac-3f825a7d89a0",
+            "description": "SCOTIABANK COLPATRIA UAT",
+            "pseCode": "1078"
+        },
+        {
+            "id": "5d8ea64d-e2fc-4c53-92d1-21c89ea46a5e",
+            "description": "SEIVY GM FINANCIAL",
+            "pseCode": "1305"
+        }
+    ]
+}

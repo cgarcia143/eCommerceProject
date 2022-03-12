@@ -1,0 +1,6 @@
+.navbar-right , .navbar-nav{
+    width: 100%;
+}
+.navbar-nav{
+    justify-content: end;
+}
